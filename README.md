@@ -13,7 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=green" alt=""/ align="center">
   </a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact)](https://github.com/johnmelwin/github-readme-stats)
 
 
 
