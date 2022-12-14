@@ -9,5 +9,7 @@
     <img src="https://img.shields.io/badge/-PORTFOLIO-red?style=for-the-badge&logo=linkedin&logoColor=white?style=for-the-badge&logo=appveyo" alt="Website Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blue" alt=""/>
+
 
 
