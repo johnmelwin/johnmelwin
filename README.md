@@ -6,8 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white?style=for-the-badge&logo=appveyor" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="AAA Badge"/>
+    <img src="https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg" alt="Youtube Badge"/>
   </a>
 </div>
+  
 
 
