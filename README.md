@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Linkedin back with robot.jpg">
+  <img src="My project-1.png">
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
