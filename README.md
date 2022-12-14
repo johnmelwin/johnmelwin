@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Linkedin back with robot.jpg" width="600" height="300"/>
+  <img src="Linkedin back with robot.jpg" width="800" height="500"/>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
