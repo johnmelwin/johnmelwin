@@ -14,7 +14,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact)](https://github.com/johnmelwin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compactColor=white)](https://github.com/johnmelwin/github-readme-stats)
 
 
 
