@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="My project-1.png">
+  <img src="new_back.png">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/johnmelwinrichard/">
