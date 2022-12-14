@@ -11,6 +11,7 @@
 </div>
 <div id="Profile_views" align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=green" alt=""/ align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
