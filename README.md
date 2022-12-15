@@ -13,8 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=green" alt=""/ align="center">
   </a>
 </div>
-### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=vision-friendly-dark(https://github.com/johnmelwin/github-readme-stats)
 
 
 
