@@ -16,7 +16,6 @@
 ---
 
 ### :fire: My Stats :
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=johnmelwin)](https://git.io/streak-stats)
 
 
