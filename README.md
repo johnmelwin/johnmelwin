@@ -13,10 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=green" alt=""/ align="center">
   </a>
 </div>
-
-
-
-
+### :fire: Softwares I know :
 <div>
    <a href="https://www.python.org/">
     <img src="py.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
