@@ -50,6 +50,34 @@
     <img src="Juypter.png" title="Jupyter width="40" height="40"/>&nbsp;
    </a>
 </div>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ <div id="skills" align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Data Mining-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Data Mining"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Data Pre-processing-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Data Pre-processing"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Model Building-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Model Building"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Model Validation & Evaluation-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Model Validation & Evaluation"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Probability & Statistical Inference-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Probability & Statistical Inference"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Data Analysis-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Data Analysis"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Data Visualization-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Data Visualization"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Teamwork-8DD6F9?style=for-the-badge&logo=probot&logoColor=white" alt="Teamwork"/>
+  </a>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
