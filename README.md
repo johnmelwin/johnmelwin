@@ -31,7 +31,7 @@
     <img src="R.png" title="R" alt="R" width="40" height="40"/>&nbsp;
    </a>
    <a href="https://www.tableau.com/">
-    <img src="tableau.jpg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+    <img src="tableau.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
    </a>
    <a href="https://www.sas.com/en_us/software/jmp-statistics-software.html">
     <img src="jmp.png" title="JMP" alt="JMP" width="50" height="40"/>&nbsp;
