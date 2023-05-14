@@ -14,7 +14,7 @@
   </a>
 </div>
 
---
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div>
    <a href="https://www.java.com/en/">
@@ -23,7 +23,10 @@
    <a href="https://scikit-learn.org/stable/">
     <img src="scikit-learn-seeklogo.com.svg" title="Sk-learn" alt="SK" width="50" height="50"/>&nbsp;
    </a>
-  <img src="scikit-learn-seeklogo.com.svg" title="Sk-learn" alt="SK" width="50" height="50"/>&nbsp;
+   <a href="https://www.python.org/">
+    <img src="scikit-learn-seeklogo.com.svg" title="Sk-learn" alt="SK" width="50" height="50"/>&nbsp;
+   </a>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>;
 </div>
