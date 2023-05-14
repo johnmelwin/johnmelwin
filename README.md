@@ -43,7 +43,6 @@
    <a href="https://www.mathworks.com/products/matlab.html">
     <img src="Matlab_Logo.png" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
    </a>
-   <img src="C++.jpg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
    <a href="https://jupyter.org/">
     <img src="Juypter.png" title="Jupyter width="40" height="40"/>&nbsp;
    </a>
