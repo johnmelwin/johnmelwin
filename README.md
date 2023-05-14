@@ -18,18 +18,35 @@
 
 <div>
    <a href="https://www.python.org/">
-    <img src="py.png" title="Python" alt="SK" width="45" height="45"/>&nbsp;
+    <img src="py.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    </a>
    <a href="https://www.java.com/en/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="C.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="Matlab_Logo.png" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.r-project.org/">
+    <img src="R.png" title="R" alt="R" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.tableau.com/">
+    <img src="tableau.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.jmp.com/en_us/home.html">
+    <img src="jmp.png" title="JMP" alt="JMP" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="Excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://jupyter.org/">
+    <img src="Juypter.png" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
    </a>
    <a href="https://scikit-learn.org/stable/">
-    <img src="scikit-learn-seeklogo.com.svg" title="Sk-learn" alt="SK" width="50" height="50"/>&nbsp;
+    <img src="scikit-learn-seeklogo.com.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="50"/>&nbsp;
    </a>
-   
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+   <a href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   </a>
 </div>
 
 ### :fire: My Stats :
