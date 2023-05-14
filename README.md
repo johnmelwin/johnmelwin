@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/Data Mining-FFC300?style=for-the-badge&logo=datacamp&logoColor=black" alt="Data Mining" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Pre-processing-FF5733?style=for-the-badge&logo=pytorch&logoColor=black" alt="Data Pre-processing" style="background-color:#000000; color:#FF5733"/>
+    <img src="https://img.shields.io/badge/Data Pre-processing-FF5733?style=for-the-badge&logo=pytorch&logoColor=black" alt="Pre-processing" style="background-color:#000000; color:#FF5733"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Model Building-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Building" style="background-color:#000000; color:#9B59B6"/>
