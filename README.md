@@ -32,7 +32,7 @@
    <a href="https://www.sas.com/en_us/software/jmp-statistics-software.html">
     <img src="jmp.png" title="JMP" alt="JMP" width="40" height="40"/>&nbsp;
    </a>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
    <a href="https://www.jetbrains.com/">
     <img src="jb_beam.png" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
    </a>
