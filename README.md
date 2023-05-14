@@ -45,7 +45,7 @@
    </a>
    <img src="C++.jpg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
    <a href="https://jupyter.org/">
-    <img src="Juypter.png" title="Jupyter
+    <img src="Juypter.png" title="Jupyter width="40" height="40"/>&nbsp;
    </a>
 </div>
 
