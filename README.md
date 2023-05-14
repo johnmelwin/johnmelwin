@@ -54,28 +54,28 @@
 
 <div id="skills" align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Mining-FFC300?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Mining"/>
+    <img src="https://img.shields.io/badge/Data Mining-FFC300?style=for-the-badge&logo=datacamp&logoColor=black" alt="Data Mining" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Pre-processing-FF5733?style=for-the-badge&logo=pytorch&logoColor=white" alt="Data Pre-processing"/>
+    <img src="https://img.shields.io/badge/Data Pre-processing-FF5733?style=for-the-badge&logo=pytorch&logoColor=black" alt="Data Pre-processing" style="background-color:#000000; color:#FF5733"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Model Building-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Model Building"/>
+    <img src="https://img.shields.io/badge/Model Building-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Building" style="background-color:#000000; color:#9B59B6"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Model Validation & Evaluation-3498DB?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Model Validation & Evaluation"/>
+    <img src="https://img.shields.io/badge/Model Validation & Evaluation-3498DB?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Model Validation & Evaluation" style="background-color:#000000; color:#3498DB"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Probability & Statistical Inference-FFC300?style=for-the-badge&logo=mathworks&logoColor=white" alt="Probability & Statistical Inference"/>
+    <img src="https://img.shields.io/badge/Probability & Statistical Inference-FFC300?style=for-the-badge&logo=mathworks&logoColor=black" alt="Probability & Statistical Inference" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Analysis-FF5733?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis"/>
+    <img src="https://img.shields.io/badge/Data Analysis-FF5733?style=for-the-badge&logo=pandas&logoColor=black" alt="Data Analysis" style="background-color:#000000; color:#FF5733"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Visualization-9B59B6?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Data Visualization"/>
+    <img src="https://img.shields.io/badge/Data Visualization-9B59B6?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Data Visualization" style="background-color:#000000; color:#9B59B6"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Teamwork-3498DB?style=for-the-badge&logo=slack&logoColor=white" alt="Teamwork"/>
+    <img src="https://img.shields.io/badge/Teamwork-3498DB?style=for-the-badge&logo=slack&logoColor=black" alt="Teamwork" style="background-color:#000000; color:#3498DB"/>
   </a>
 </div>
 
