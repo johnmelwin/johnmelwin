@@ -54,32 +54,30 @@
 
 <div id="skills" align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Mining-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Data Mining"/>
+    <img src="https://img.shields.io/badge/Data Mining-FFC300?style=for-the-badge&logo=datacamp&logoColor=black" alt="Data Mining" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Pre-processing-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Data Pre-processing"/>
+    <img src="https://img.shields.io/badge/Data Pre-processing-FF5733?style=for-the-badge&logo=pytorch&logoColor=black" alt="Data Pre-processing" style="background-color:#000000; color:#FF5733"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Model Building-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Model Building"/>
+    <img src="https://img.shields.io/badge/Model Building-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Building" style="background-color:#000000; color:#9B59B6"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Model Validation & Evaluation-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Model Validation & Evaluation"/>
+    <img src="https://img.shields.io/badge/Model Validation & Evaluation-3498DB?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Model Validation & Evaluation" style="background-color:#000000; color:#3498DB"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Probability & Statistical Inference-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Probability & Statistical Inference"/>
+    <img src="https://img.shields.io/badge/Probability & Statistical Inference-FFC300?style=for-the-badge&logo=mathworks&logoColor=black" alt="Probability & Statistical Inference" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Analysis-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Data Analysis"/>
+    <img src="https://img.shields.io/badge/Data Analysis-FF5733?style=for-the-badge&logo=pandas&logoColor=black" alt="Data Analysis" style="background-color:#000000; color:#FF5733"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Visualization-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Data Visualization"/>
+    <img src="https://img.shields.io/badge/Data Visualization-9B59B6?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Data Visualization" style="background-color:#000000; color:#9B59B6"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=probot&logoColor=FF69B4" alt="Teamwork"/>
+    <img src="https://img.shields.io/badge/Teamwork-3498DB?style=for-the-badge&logo=slack&logoColor=black" alt="Teamwork" style="background-color:#000000; color:#3498DB"/>
   </a>
 </div>
-
-
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
