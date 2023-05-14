@@ -55,7 +55,7 @@
 
 <div id="skills" align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Data Mining-FFC300?style=for-the-badge&logo=datacamp&logoColor=black" alt="Data Mining" style="background-color:#000000; color:#FFC300"/>
+    <img src="https://img.shields.io/badge/Melwin-FFC300?style=for-the-badge&logo=datacamp&logoColor=black" alt="Data Mining" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Model Building-FFC300?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Building" style="background-color:#000000; color:#FFC300"/>
