@@ -17,8 +17,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <h2 style="color: pink;">Skills</h2>
+  <h2 class="pink-heading">Skills</h2>
 </div>
+
+<style>
+.pink-heading {
+  color: pink;
+}
+</style>
 
 <div id="skills" align="center">
   <a href="#">
