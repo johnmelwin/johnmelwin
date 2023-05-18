@@ -51,7 +51,7 @@
 
 <div id="skills" align="center">
   <div align="center">
-  <h3> LANGUAGES AND TOOLS </h3>
+  <h3> LANGUAGES AND TOOLS 💾</h3>
 </div>
 
 <div>
