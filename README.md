@@ -49,7 +49,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 <div id="skills" align="center">
   <div align="center">
-  <h2> LANGUAGES AND TOOLS </h2>
+  <h1> LANGUAGES AND TOOLS </h1>
 </div>
 
 <div>
