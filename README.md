@@ -17,7 +17,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 <div id="skills" align="center">
-  ##EXPERTISE
+  <div align="center">
+  <h2>EXPERTISE</h2>
+</div>
   <a href="#">
     <img src="https://img.shields.io/badge/ DATA MINING-FFC300?style=for-the-badge&logo=mathworks&logoColor=black" alt="Probability & Statistical Inference" style="background-color:#000000; color:#FFC300"/>
   </a>
