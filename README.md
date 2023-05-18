@@ -19,7 +19,6 @@
 <div id="skills" align="center">
   <div align="center">
   <h3> :sparkles: EXPERTISE :sparkles: </h3>
-</div>
   
 </div>
   <a href="#">
