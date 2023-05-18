@@ -43,6 +43,41 @@
   </a>
 </div>
 
+💻Softwares I know:
+<div>
+   <a href="https://www.python.org/">
+    <img src="py.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   </a>
+     <a href="https://www.java.com/en/">
+    <img src="java.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.cprogramming.com/">
+    <img src="C.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.r-project.org/">
+    <img src="R.png" title="R" alt="R" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.tableau.com/">
+    <img src="tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://www.sas.com/en_us/software/jmp-statistics-software.html">
+    <img src="JMP_Logo.png" title="JMP" alt="JMP" width="90" height="40"/>&nbsp;
+   </a>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+   <a href="https://www.jetbrains.com/">
+    <img src="jb_beam.png" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://scikit-learn.org/stable/">
+    <img src="scikit-learn-seeklogo.com.svg" title="Sk-learn" alt="SK" width="50" height="50"/>&nbsp;
+   </a>
+   <img src="Excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+   <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="Matlab_Logo.png" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+   </a>
+   <a href="https://jupyter.org/">
+    <img src="Juypter.png" title="Jupyter width="40" height="40"/>&nbsp;
+   </a>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
