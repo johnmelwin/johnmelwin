@@ -30,7 +30,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/EXPLORATORY DATA ANALYSIS-FFC300?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Model Validation & Evaluation" style="background-color:#000000; color:#FFC300"/>
   </a>
-   <a href="#">
+   <a href="https://github.com/johnmelwin/Machine-Learning">
     <img src="https://img.shields.io/badge/MACHINE LEARNING-FFC300?style=for-the-badge&logo=datacamp&logoColor=black" alt="Data Mining" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
