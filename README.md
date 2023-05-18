@@ -49,7 +49,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 <div id="skills" align="center">
   <div align="center">
-  <h2> 💻SOFTWARE COMPENTENCIES </h2>
+  <h2> LANGUAGES AND TOOLS </h2>
 </div>
 
 <div>
