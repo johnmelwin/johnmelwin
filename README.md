@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/APPLIED STATISTICS-FFC300?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Data Visualization" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/TEAMWORK-FFC300?style=for-the-badge&logo=slack&logoColor=black" alt="Teamwork" style="background-color:#000000; color:#FFC300"/>
+    <img src="https://img.shields.io/badge/BUSINESS INTELLIGENCE-FFC300?style=for-the-badge&logo=slack&logoColor=black" alt="Teamwork" style="background-color:#000000; color:#FFC300"/>
   </a>
    <a href="#">
     <img src="https://img.shields.io/badge/SQL-FFC300?style=for-the-badge&logo=slack&logoColor=black" alt="Teamwork" style="background-color:#000000; color:#FFC300"/>
