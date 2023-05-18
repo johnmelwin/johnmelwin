@@ -51,7 +51,7 @@
     <img src="py.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
    </a>
      <a href="https://www.java.com/en/">
-    <img src="java.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="java.png" title="Java" alt="Java" width="50" height="50"/>&nbsp;
    </a>
    <a href="https://www.cprogramming.com/">
     <img src="C.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
