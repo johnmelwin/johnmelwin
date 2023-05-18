@@ -20,6 +20,8 @@
   <div align="center">
   <h2> :sparkles: EXPERTISE :sparkles: </h2>
 </div>
+  
+</div>
   <a href="#">
     <img src="https://img.shields.io/badge/ DATA MINING-FFC300?style=for-the-badge&logo=mathworks&logoColor=black" alt="Probability & Statistical Inference" style="background-color:#000000; color:#FFC300"/>
   </a>
@@ -47,6 +49,7 @@
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------
+
 <div id="skills" align="center">
   <div align="center">
   <h3> LANGUAGES AND TOOLS </h3>
