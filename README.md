@@ -18,7 +18,6 @@
 
 <div align="center">
   <h2>Skills</h2>
-</div>
 <div id="skills" align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/ DATA MINING-FFC300?style=for-the-badge&logo=mathworks&logoColor=black" alt="Probability & Statistical Inference" style="background-color:#000000; color:#FFC300"/>
