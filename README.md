@@ -91,7 +91,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-### :fire: My Stats :
+### 💾 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
