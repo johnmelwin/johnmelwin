@@ -36,7 +36,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/SOFTWARE TESTING-FFC300?style=for-the-badge&logo=pandas&logoColor=black" alt="Data Analysis" style="background-color:#000000; color:#FFC300"/>
   </a>
-  <a href="#">
+  <a href="https://github.com/johnmelwin/Customer-Buying-Habits-Analysis">
     <img src="https://img.shields.io/badge/APPLIED STATISTICS-FFC300?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Data Visualization" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="#">
