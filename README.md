@@ -18,7 +18,7 @@
 
 <div id="skills" align="center">
   <div align="center">
-  <h3> :sparkles: EXPERTISE :sparkles: </h3>
+  <h3> :sparkles: MY EXPERTISE :sparkles: </h3>
   
 </div>
   <a href="#">
