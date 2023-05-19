@@ -95,7 +95,6 @@
                                                                 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical)
             
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=johnmelwin&theme=github)
-                                                                
-![GitHub Contribution Calendar](https://github-readme-calendar.herokuapp.com/johnmelwin)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johnmelwin&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
