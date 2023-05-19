@@ -90,7 +90,14 @@
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <div>
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
-                                                                
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical)
