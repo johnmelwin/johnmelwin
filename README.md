@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="Profile_views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=green" alt=""/ align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=green" alt="" align="center">
   </a>
 </div>
 
@@ -92,5 +92,3 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
