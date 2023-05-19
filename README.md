@@ -92,3 +92,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=radical&hide_border=true)](https://git.io/streak-stats)
+                                                                
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical)
+
