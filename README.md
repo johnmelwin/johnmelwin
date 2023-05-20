@@ -24,7 +24,7 @@
   <a href="https://github.com/johnmelwin/Customer-Buying-Habits-Analysis">
     <img src="https://img.shields.io/badge/ DATA MINING-FFC300?style=for-the-badge&logo=mathworks&logoColor=black" alt="Probability & Statistical Inference" style="background-color:#000000; color:#FFC300"/>
   </a>
-  <a href="https://github.com/johnmelwin/Machine-Learning">
+  <a href="https://github.com/johnmelwin/CancerAnalysis2015">
     <img src="https://img.shields.io/badge/DATA VISUALIZATION-FFC300?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Model Building" style="background-color:#000000; color:#FFC300"/>
   </a>
   <a href="https://github.com/johnmelwin/SalesNPSAnalysis">
