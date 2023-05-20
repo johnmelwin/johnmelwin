@@ -39,7 +39,7 @@
   <a href="https://github.com/johnmelwin/Customer-Buying-Habits-Analysis">
     <img src="https://img.shields.io/badge/APPLIED STATISTICS-FFC300?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Data Visualization" style="background-color:#000000; color:#FFC300"/>
   </a>
-  <a href="[https://github.com/johnmelwin/SalesNPSAnalysis](https://github.com/johnmelwin/SalesNPSAnalysis/blob/main/Executive%20Summary%20(Sales).pdf)">
+  <a href="https://github.com/johnmelwin/SalesNPSAnalysis/blob/main/Executive%20Summary%20(Sales).pdf">
     <img src="https://img.shields.io/badge/BUSINESS INTELLIGENCE-FFC300?style=for-the-badge&logo=slack&logoColor=black" alt="Teamwork" style="background-color:#000000; color:#FFC300"/>
   </a>
    <a href="https://github.com/johnmelwin/DBMS">
