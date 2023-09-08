@@ -98,7 +98,7 @@
     </a>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical" alt="Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical%22%20alt=%22Top%20Languages)https://github-readme-stats.vercel.app/api/top-langs/?username=johnmelwin&layout=compact&theme=radical%22%20alt=%22Top%20Languages"/>
   </div>
 </div>
 
