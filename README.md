@@ -2,37 +2,30 @@
   <img src="new_back.png" width="100%"/>
 </div>
 
-```bash
-$ whoami
-> John Melwin Richard
+<div align="center">
+  
+  # Hey there! I'm John Melwin 👋
+  ### 🤖 Generative AI Engineer
 
-$ cat role.txt
-> 🤖 Generative AI Engineer
+  *Building intelligent systems with LLMs, RAG pipelines & AI agents*
+  
+</div>
 
-$ cat mission.txt
-> Building intelligent systems with LLMs, RAG pipelines & AI agents
-
-$ cat skills --top
-> Prompt Engineering | RAG | AI Agents | LLMs | Fine-Tuning | NLP | MLOps
-
-$ echo $CONTACT
-> 🔗 linkedin.com/in/johnmelwinrichard
-> 🌐 johnmelwinrichard.com
-> 📧 jmelwinrichard18@gmail.com
-```
-
-<p>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/johnmelwinrichard/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://www.johnmelwinrichard.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:jmelwinrichard18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</p>
+</div>
 
 ---
 
