@@ -1,29 +1,21 @@
 <div align="center">
   <img src="new_back.png" width="100%"/>
-</div>
-
-<div align="center">
   
-  # Hey there! I'm John Melwin 👋
-  ### 🤖 Generative AI Engineer
+  <h1>John Melwin Richard</h1>
+  <h3>🤖 Generative AI Engineer</h3>
+  <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
 
-  *Building intelligent systems with LLMs, RAG pipelines & AI agents*
-  
-</div>
-
-<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/johnmelwinrichard/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.johnmelwinrichard.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:jmelwinrichard18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
-
-<div align="center">
+  
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
 
