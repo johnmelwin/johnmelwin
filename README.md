@@ -2,27 +2,34 @@
   <img src="new_back.png" width="100%"/>
 </div>
 
-<div align="center">
-  
-  # Hi, I'm John Melwin 👋
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Generative+AI+Engineer;LLM+%7C+RAG+%7C+AI+Agents+%7C+Prompt+Engineering;Building+Intelligent+Systems+with+AI" alt="Typing SVG"/>
-  </a>
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/johnmelwinrichard/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://www.johnmelwinrichard.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="mailto:jmelwinrichard18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</div>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h1>John Melwin Richard</h1>
+      <h3>🤖 Generative AI Engineer</h3>
+      <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
+      <br/>
+      <a href="https://www.linkedin.com/in/johnmelwinrichard/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>&nbsp;
+      <a href="https://www.johnmelwinrichard.com/">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      </a>&nbsp;
+      <a href="mailto:jmelwinrichard18@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
+    </td>
+    <td width="45%" align="center" valign="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=380&height=120&lines=Generative+AI+Engineer;LLM+%7C+RAG+%7C+AI+Agents;Prompt+Engineering+%7C+NLP;Building+Intelligent+Systems" alt="Typing SVG"/>
+      </a>
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" width="380" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
