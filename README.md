@@ -4,8 +4,7 @@
 
 <table>
   <tr>
-    <td valign="top">
-      <img width="600" height="1" />
+    <td colspan="2" align="center">
       <h3>🤖 Generative AI Engineer</h3>
       <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
       <br/>
@@ -20,7 +19,11 @@
       </a>
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
-      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img width="600" height="1" />
       <h3>🧠 About Me</h3>
       <p>🔭 Currently working on <strong>LLM-powered applications & AI agents</strong></p>
       <p>🌱 Exploring <strong>multi-modal AI, autonomous agents & advanced RAG</strong></p>
