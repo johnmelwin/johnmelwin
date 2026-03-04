@@ -6,7 +6,6 @@
   <tr>
     <td valign="top">
       <img width="600" height="1" />
-      <h1>John Melwin Richard</h1>
       <h3>🤖 Generative AI Engineer</h3>
       <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
       <br/>
