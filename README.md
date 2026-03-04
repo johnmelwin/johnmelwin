@@ -5,9 +5,9 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h3>🤖 Generative AI Engineer</h3>
-      <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
-      <br/>
+      <p><strong>Hi there 👋 I'm John Melwin Richard</strong></p>
+      <p>Generative AI Engineer building intelligent systems with LLMs, RAG pipelines, and AI agents.</p>
+      <p>🔗 <strong>Connect with me</strong>&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/johnmelwinrichard/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
@@ -16,8 +16,7 @@
       </a>&nbsp;
       <a href="mailto:jmelwinrichard18@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-      <br/><br/>
+      </a></p>
       <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
     </td>
   </tr>
