@@ -20,6 +20,12 @@
       </a>
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
+      <br/><br/>
+      <h3>🧠 About Me</h3>
+      <p>🔭 Currently working on <strong>LLM-powered applications & AI agents</strong></p>
+      <p>🌱 Exploring <strong>multi-modal AI, autonomous agents & advanced RAG</strong></p>
+      <p>💬 Ask me about <strong>Generative AI, LLMs, Prompt Engineering, RAG</strong></p>
+      <p>⚡ Background in <strong>Data Science, ML & Software Engineering</strong></p>
     </td>
     <td width="45%" valign="top">
       <h3>🚀 My Expertise</h3>
@@ -58,15 +64,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🧠 About Me
-
-- 🔭 Currently working on **LLM-powered applications & AI agents**
-- 🌱 Exploring **multi-modal AI, autonomous agents & advanced RAG architectures**
-- 💬 Ask me about **Generative AI, LLMs, Prompt Engineering, RAG, LangChain**
-- ⚡ Background in **Data Science, Machine Learning & Software Engineering**
 
 ---
 
