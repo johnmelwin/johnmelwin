@@ -31,10 +31,10 @@
 
 ### 🏆 Achievements
 
-🎓 **M.S. in Data Science | 4.0 / 4.0 GPA**  
+🎓 **4/4 GPA | M.S. in Data Science**  
 📄 [**On the Classification of Refactoring Code Reviews**](https://ieeexplore.ieee.org/document/11141041) | IEEE ICMI 2025  
 🏅 [**Google Cloud Professional Cloud Architect**](https://www.credly.com/badges/b8bca8d5-2735-46b5-acd7-573f97a5b014/public_url)  
-🚀 [**AIVERSE**](https://tryaiverse.com/) | My notable open source project helping users discover AI tools
+🚀 [**AIVERSE - AI Discovery Platform**](https://tryaiverse.com/) | My notable open source project helping users discover AI 
 
 ---
 
