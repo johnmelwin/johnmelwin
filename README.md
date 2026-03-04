@@ -7,10 +7,10 @@
     <td colspan="2" align="center">
       <a href="https://www.linkedin.com/in/johnmelwinrichard/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>&nbsp;
+      </a>
       <a href="https://www.johnmelwinrichard.com/">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-      </a>&nbsp;
+      </a>
       <a href="mailto:jmelwinrichard18@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
       </a>
