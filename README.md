@@ -5,17 +5,22 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+%3Cdevs+%2F%3E;I'm+John+Melwin+Richard;Generative+AI+Engineer;Building+intelligent+systems+with+LLMs" alt="Typing SVG" /></a>
-      <p><em>I'm John Melwin Richard, Generative AI Engineer building intelligent systems with LLMs, RAG pipelines, and AI agents.</em></p>
+      <a href="https://github.com/johnmelwin">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      </a>&nbsp;
       <a href="https://www.linkedin.com/in/johnmelwinrichard/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
       <a href="https://www.johnmelwinrichard.com/">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
       </a>&nbsp;
       <a href="mailto:jmelwinrichard18@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a><br/>
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <br/><br/>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there+%F0%9F%91%8B%2C+%3C+devs+%2F%3E" alt="Typing SVG" /></a>
+      <br/>
+      <p>I'm <strong>John Melwin Richard</strong>, a Generative AI Engineer building intelligent systems with LLMs, RAG pipelines, and AI agents.</p>
       <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
     </td>
   </tr>
