@@ -39,14 +39,9 @@
 
 ### 🚀 My Expertise
 
-Generative AI &nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/95/?width=150&color=0D9373" alt="95%"/>  
-LLMs / RAG &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/90/?width=150&color=1AA37E" alt="90%"/>  
-AI Agents &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/85/?width=150&color=2DB38A" alt="85%"/>  
-Prompt Eng &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/95/?width=150&color=0D9373" alt="95%"/>  
-NLP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/85/?width=150&color=2DB38A" alt="85%"/>  
-Machine Learning <img src="https://progress-bar.xyz/88/?width=150&color=22AB84" alt="88%"/>  
-Computer Vision &nbsp; <img src="https://progress-bar.xyz/75/?width=150&color=4FCC9E" alt="75%"/>  
-MLOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/70/?width=150&color=66D9AB" alt="70%"/>
+<div align="center">
+  <img src="expertise_radar.svg" alt="Expertise Radar Chart" width="450"/>
+</div>
 
 ---
 

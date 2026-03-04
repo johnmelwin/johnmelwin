@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; fill: #c9d1d9; }
+      .label { font-size: 12px; font-weight: 600; }
+      .value { font-size: 10px; fill: #8b949e; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="500" fill="#0d1117" rx="12"/>
+
+  <!-- Title -->
+  <text x="250" y="35" text-anchor="middle" font-size="18" font-weight="700" fill="#3DBFA0">🚀 My Expertise</text>
+
+  <!-- Grid levels (20%, 40%, 60%, 80%, 100%) centered at 250,270 radius max 170 -->
+  <!-- Level 20% r=34 -->
+  <polygon points="250,236 271.8,259.1 267.6,286.2 250,297.2 232.4,286.2 228.2,259.1 " fill="none" stroke="#21262d" stroke-width="1"/>
+  <!-- Level 40% r=68 -->
+  <polygon points="250,202 293.6,248.2 285.2,302.4 250,324.4 214.8,302.4 206.4,248.2" fill="none" stroke="#21262d" stroke-width="1"/>
+  <!-- Level 60% r=102 -->
+  <polygon points="250,168 315.4,237.3 302.8,318.6 250,351.6 197.2,318.6 184.6,237.3" fill="none" stroke="#21262d" stroke-width="1"/>
+  <!-- Level 80% r=136 -->
+  <polygon points="250,134 337.2,226.4 320.4,334.8 250,378.8 179.6,334.8 162.8,226.4" fill="none" stroke="#21262d" stroke-width="1"/>
+  <!-- Level 100% r=170 -->
+  <polygon points="250,100 359,215.5 338,351 250,406 162,351 141,215.5" fill="none" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- Axis lines from center to vertices -->
+  <line x1="250" y1="270" x2="250" y2="100" stroke="#21262d" stroke-width="1"/>
+  <line x1="250" y1="270" x2="359" y2="215.5" stroke="#21262d" stroke-width="1"/>
+  <line x1="250" y1="270" x2="338" y2="351" stroke="#21262d" stroke-width="1"/>
+  <line x1="250" y1="270" x2="250" y2="406" stroke="#21262d" stroke-width="1"/>
+  <line x1="250" y1="270" x2="162" y2="351" stroke="#21262d" stroke-width="1"/>
+  <line x1="250" y1="270" x2="141" y2="215.5" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Skill data polygon -->
+  <!-- Skills: GenAI 95%, LLM/RAG 90%, Prompt 95%, ML 88%, NLP 85%, CV 75% -->
+  <!-- 6 vertices at 60° intervals, starting from top -->
+  <!-- GenAI 95%: angle=270° r=161.5 → (250+161.5*cos270, 270+161.5*sin270) = (250, 108.5) -->
+  <!-- LLM/RAG 90%: angle=330° r=153 → (250+153*cos330, 270+153*sin330) = (382.5, 193.5) -->
+  <!-- Prompt 95%: angle=30° r=161.5 → (250+161.5*cos30, 270+161.5*sin30) = (389.8, 350.75) -->
+  <!-- ML 88%: angle=90° r=149.6 → (250+149.6*cos90, 270+149.6*sin90) = (250, 419.6) -->
+  <!-- NLP 85%: angle=150° r=144.5 → (250+144.5*cos150, 270+144.5*sin150) = (124.9, 342.25) -->
+  <!-- CV 75%: angle=210° r=127.5 → (250+127.5*cos210, 270+127.5*sin210) = (139.6, 206.25) -->
+  <polygon points="250,108.5 382.5,193.5 389.8,350.8 250,419.6 124.9,342.3 139.6,206.3"
+    fill="rgba(61,191,160,0.2)" stroke="#3DBFA0" stroke-width="2.5"/>
+
+  <!-- Data points -->
+  <circle cx="250" cy="108.5" r="4" fill="#3DBFA0"/>
+  <circle cx="382.5" cy="193.5" r="4" fill="#3DBFA0"/>
+  <circle cx="389.8" cy="350.8" r="4" fill="#3DBFA0"/>
+  <circle cx="250" cy="419.6" r="4" fill="#3DBFA0"/>
+  <circle cx="124.9" cy="342.3" r="4" fill="#3DBFA0"/>
+  <circle cx="139.6" cy="206.3" r="4" fill="#3DBFA0"/>
+
+  <!-- Labels -->
+  <text x="250" y="82" text-anchor="middle" class="label">Generative AI</text>
+  <text x="250" y="94" text-anchor="middle" class="value">95%</text>
+
+  <text x="395" y="190" text-anchor="start" class="label">LLMs / RAG</text>
+  <text x="395" y="202" text-anchor="start" class="value">90%</text>
+
+  <text x="400" y="358" text-anchor="start" class="label">Prompt Eng</text>
+  <text x="400" y="370" text-anchor="start" class="value">95%</text>
+
+  <text x="250" y="445" text-anchor="middle" class="label">Machine Learning</text>
+  <text x="250" y="457" text-anchor="middle" class="value">88%</text>
+
+  <text x="108" y="350" text-anchor="end" class="label">NLP</text>
+  <text x="108" y="362" text-anchor="end" class="value">85%</text>
+
+  <text x="125" y="200" text-anchor="end" class="label">Computer Vision</text>
+  <text x="125" y="212" text-anchor="end" class="value">75%</text>
+</svg>
