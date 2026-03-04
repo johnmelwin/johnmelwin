@@ -20,20 +20,12 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>🧠 About Me</h3>
-      <p>• Currently working on <strong>LLM-powered applications & AI agents</strong></p>
-      <p>• Exploring <strong>multi-modal AI, autonomous agents & advanced RAG</strong></p>
-      <p>• Ask me about <strong>Generative AI, LLMs, Prompt Engineering, RAG</strong></p>
-      <p>• Background in <strong>Data Science, ML & Software Engineering</strong></p>
-    </td>
-    <td valign="top" align="center">
-      <img src="expertise_radar.svg" alt="Expertise Radar Chart" width="350"/>
-    </td>
-  </tr>
-</table>
+### 🧠 About Me
+
+• Currently working on **LLM-powered applications & AI agents**  
+• Exploring **multi-modal AI, autonomous agents & advanced RAG**  
+• Ask me about **Generative AI, LLMs, Prompt Engineering, RAG**  
+• Background in **Data Science, ML & Software Engineering**
 
 ---
 
@@ -42,6 +34,19 @@
 📄 [**On the Classification of Refactoring Code Reviews**](https://ieeexplore.ieee.org/document/11141041) — IEEE ICMI 2025  
 🏅 [**Google Cloud Professional Cloud Architect**](https://www.credly.com/badges/b8bca8d5-2735-46b5-acd7-573f97a5b014/public_url)  
 🚀 [**AIverse**](https://tryaiverse.com/) — AI hub for news, tools, prompts & more
+
+---
+
+### 🚀 My Expertise
+
+Generative AI &nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/95/?width=150&color=0D9373" alt="95%"/>  
+LLMs / RAG &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/90/?width=150&color=1AA37E" alt="90%"/>  
+AI Agents &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/85/?width=150&color=2DB38A" alt="85%"/>  
+Prompt Eng &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/95/?width=150&color=0D9373" alt="95%"/>  
+NLP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/85/?width=150&color=2DB38A" alt="85%"/>  
+Machine Learning <img src="https://progress-bar.xyz/88/?width=150&color=22AB84" alt="88%"/>  
+Computer Vision &nbsp; <img src="https://progress-bar.xyz/75/?width=150&color=4FCC9E" alt="75%"/>  
+MLOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://progress-bar.xyz/70/?width=150&color=66D9AB" alt="70%"/>
 
 ---
 
