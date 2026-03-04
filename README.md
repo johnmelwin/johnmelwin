@@ -28,6 +28,9 @@
       <p>🌱 Exploring <strong>multi-modal AI, autonomous agents & advanced RAG</strong></p>
       <p>💬 Ask me about <strong>Generative AI, LLMs, Prompt Engineering, RAG</strong></p>
       <p>⚡ Background in <strong>Data Science, ML & Software Engineering</strong></p>
+      <p>📄 Published: <a href="https://ieeexplore.ieee.org/document/11141041"><strong>On the Classification of Refactoring Code Reviews</strong></a> — IEEE ICMI 2025</p>
+      <p>🏅 Certified: <a href="https://www.credly.com/badges/b8bca8d5-2735-46b5-acd7-573f97a5b014/public_url"><strong>Google Cloud Professional Cloud Architect</strong></a></p>
+      <p>🚀 Building: <a href="https://tryaiverse.com/"><strong>AIverse</strong></a> — AI hub for news, tools, prompts & more</p>
     </td>
     <td valign="top">
       <img width="300" height="1" />
