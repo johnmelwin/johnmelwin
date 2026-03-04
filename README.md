@@ -21,18 +21,40 @@
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="45%" valign="top">
       <h3>🚀 My Expertise</h3>
-      <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RAG_Pipelines-00897B?style=flat-square&logo=apache&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI_Agents-7B1FA2?style=flat-square&logo=probot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prompt_Engineering-1565C0?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Fine_Tuning-E65100?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLP-2E7D32?style=flat-square&logo=spacy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Machine_Learning-FFC300?style=flat-square&logo=scikit-learn&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Computer_Vision-1976D2?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white"/>
+      <p>
+        Generative AI &nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/95/?width=120&color=FF6F00" alt="95%"/>
+      </p>
+      <p>
+        LLMs / RAG &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/90/?width=120&color=412991" alt="90%"/>
+      </p>
+      <p>
+        AI Agents &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/85/?width=120&color=7B1FA2" alt="85%"/>
+      </p>
+      <p>
+        Prompt Eng &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/95/?width=120&color=1565C0" alt="95%"/>
+      </p>
+      <p>
+        NLP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/85/?width=120&color=2E7D32" alt="85%"/>
+      </p>
+      <p>
+        Machine Learning
+        <img src="https://progress-bar.xyz/88/?width=120&color=FFC300" alt="88%"/>
+      </p>
+      <p>
+        Computer Vision &nbsp;
+        <img src="https://progress-bar.xyz/75/?width=120&color=1976D2" alt="75%"/>
+      </p>
+      <p>
+        MLOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/70/?width=120&color=E65100" alt="70%"/>
+      </p>
     </td>
   </tr>
 </table>
