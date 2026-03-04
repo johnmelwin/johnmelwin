@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h3>🤖 Generative AI Engineer</h3>
-      <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
+      <h3>Hi there! 👋 &lt;devs /&gt;</h3>
+      <p><em>I'm John Melwin Richard, Generative AI Engineer building intelligent systems with LLMs, RAG pipelines, and AI agents.</em></p>
       <a href="https://www.linkedin.com/in/johnmelwinrichard/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
