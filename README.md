@@ -37,16 +37,38 @@
     <td valign="top">
       <img width="300" height="1" />
       <h3>🚀 My Expertise</h3>
-<pre>
-Generative AI   ████████████████████░  95%
-LLMs / RAG      ██████████████████░░░  90%
-AI Agents       █████████████████░░░░  85%
-Prompt Eng      ████████████████████░  95%
-NLP             █████████████████░░░░  85%
-Machine Learning██████████████████░░░  88%
-Computer Vision ███████████████░░░░░░  75%
-MLOps           ██████████████░░░░░░░  70%
-</pre>
+      <p>
+        Generative AI &nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/95/?width=120&color=FF6F00" alt="95%"/>
+      </p>
+      <p>
+        LLMs / RAG &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/90/?width=120&color=412991" alt="90%"/>
+      </p>
+      <p>
+        AI Agents &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/85/?width=120&color=7B1FA2" alt="85%"/>
+      </p>
+      <p>
+        Prompt Eng &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/95/?width=120&color=1565C0" alt="95%"/>
+      </p>
+      <p>
+        NLP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/85/?width=120&color=2E7D32" alt="85%"/>
+      </p>
+      <p>
+        Machine Learning
+        <img src="https://progress-bar.xyz/88/?width=120&color=FFC300" alt="88%"/>
+      </p>
+      <p>
+        Computer Vision &nbsp;
+        <img src="https://progress-bar.xyz/75/?width=120&color=1976D2" alt="75%"/>
+      </p>
+      <p>
+        MLOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://progress-bar.xyz/70/?width=120&color=E65100" alt="70%"/>
+      </p>
     </td>
   </tr>
 </table>
