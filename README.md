@@ -24,10 +24,7 @@
     <td valign="top">
       <img width="600" height="1" />
       <h3>🧠 About Me</h3>
-      <p>• Currently working on <strong>LLM-powered applications & AI agents</strong></p>
-      <p>• Exploring <strong>multi-modal AI, autonomous agents & advanced RAG</strong></p>
-      <p>• Ask me about <strong>Generative AI, LLMs, Prompt Engineering, RAG</strong></p>
-      <p>• Background in <strong>Data Science, ML & Software Engineering</strong></p>
+      <p>Currently working on <strong>LLM-powered applications & AI agents</strong>, exploring <strong>multi-modal AI, autonomous agents & advanced RAG</strong>. Ask me about <strong>Generative AI, LLMs, Prompt Engineering, RAG</strong>. Background in <strong>Data Science, ML & Software Engineering</strong>.</p>
       <br/>
       <h3>🏆 Achievements</h3>
       <p>📄 <a href="https://ieeexplore.ieee.org/document/11141041"><strong>On the Classification of Refactoring Code Reviews</strong></a> — IEEE ICMI 2025</p>
