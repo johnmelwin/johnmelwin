@@ -22,10 +22,10 @@
 
 ### 🧠 About Me
 
-• Currently working on **LLM-powered applications & AI agents**  
-• Exploring **multi-modal AI, autonomous agents & advanced RAG**  
-• Ask me about **Generative AI, LLMs, Prompt Engineering, RAG**  
-• Background in **Data Science, ML & Software Engineering**
+• Building **LLM applications, AI agents, and RAG systems**  
+• Exploring **multi-modal AI and autonomous agents**  
+• Interested in **Generative AI, prompt engineering, and NLP**  
+• Background in **Data Science, Machine Learning, and Software Engineering**
 
 ---
 
