@@ -22,18 +22,26 @@
 
 ### 🧠 About Me
 
-• Building **LLM applications, AI agents, and RAG systems**  
-• Exploring **multi-modal AI and autonomous agents**  
-• Interested in **Generative AI, prompt engineering, and NLP**  
+• Currently building **LLM applications, AI agents, and RAG systems**  
+• Exploring **multi-modal AI, autonomous agents, and neural network architectures**  
+• Ask me about **Generative AI, Machine Learning, NLP, and neural networks**  
 • Background in **Data Science, Machine Learning, and Software Engineering**
 
 ---
 
 ### 🏆 Achievements
 
-📄 [**On the Classification of Refactoring Code Reviews**](https://ieeexplore.ieee.org/document/11141041) — IEEE ICMI 2025  
-🏅 [**Google Cloud Professional Cloud Architect**](https://www.credly.com/badges/b8bca8d5-2735-46b5-acd7-573f97a5b014/public_url)  
-🚀 [**AIverse**](https://tryaiverse.com/) — AI hub for news, tools, prompts & more
+🎓 **M.S. in Data Science — 4.0 / 4.0 GPA**
+
+📄 **Research Publication**  
+[On the Classification of Refactoring Code Reviews](https://ieeexplore.ieee.org/document/11141041) — IEEE ICMI 2025
+
+🏅 **Google Cloud Professional Cloud Architect**
+
+🚀 **Notable Project — AIVERSE**  
+AI discovery platform for trending AI tools, news, prompts, and resources  
+🌐 https://tryaiverse.com  
+📈 Platform helping users discover AI tools across multiple categories
 
 ---
 
