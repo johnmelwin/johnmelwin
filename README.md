@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3DBFA0&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+there%2C+%3Cdevs+%2F%3E" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3DBFA0&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi+there%2C+%3Cdevs+%2F%3E" alt="Typing SVG" /></a>
       <br/>
       <p>I'm <strong>John Melwin Richard</strong>, a Generative AI Engineer building intelligent systems with LLMs, RAG pipelines, and AI agents.</p>
       <a href="https://www.linkedin.com/in/johnmelwinrichard/">
