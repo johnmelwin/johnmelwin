@@ -21,12 +21,18 @@
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=johnmelwin&style=flat-square&color=blueviolet" alt="Profile Views"/>
     </td>
-    <td width="45%" align="center" valign="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=380&height=120&lines=Generative+AI+Engineer;LLM+%7C+RAG+%7C+AI+Agents;Prompt+Engineering+%7C+NLP;Building+Intelligent+Systems" alt="Typing SVG"/>
-      </a>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=johnmelwin&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" width="380" alt="GitHub Streak"/>
+    <td width="45%" align="center" valign="top">
+      <h3>🚀 My Expertise</h3>
+      <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG_Pipelines-00897B?style=flat-square&logo=apache&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI_Agents-7B1FA2?style=flat-square&logo=probot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt_Engineering-1565C0?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fine_Tuning-E65100?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLP-2E7D32?style=flat-square&logo=spacy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-FFC300?style=flat-square&logo=scikit-learn&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Computer_Vision-1976D2?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -39,25 +45,6 @@
 - 🌱 Exploring **multi-modal AI, autonomous agents & advanced RAG architectures**
 - 💬 Ask me about **Generative AI, LLMs, Prompt Engineering, RAG, LangChain**
 - ⚡ Background in **Data Science, Machine Learning & Software Engineering**
-
----
-
-<div align="center">
-  <h3>🚀 MY EXPERTISE</h3>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00897B?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Agents-7B1FA2?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-1565C0?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fine_Tuning-E65100?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-2E7D32?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FFC300?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-1976D2?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white"/>
-</div>
 
 ---
 
