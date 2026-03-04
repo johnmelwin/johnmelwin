@@ -2,9 +2,9 @@
   <img src="new_back.png" width="100%"/>
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h1>John Melwin Richard</h1>
       <h3>🤖 Generative AI Engineer</h3>
       <p><em>Building intelligent systems with LLMs, RAG pipelines & AI agents</em></p>
@@ -27,7 +27,7 @@
       <p>💬 Ask me about <strong>Generative AI, LLMs, Prompt Engineering, RAG</strong></p>
       <p>⚡ Background in <strong>Data Science, ML & Software Engineering</strong></p>
     </td>
-    <td width="45%" valign="top">
+    <td width="40%" valign="top">
       <h3>🚀 My Expertise</h3>
       <p>
         Generative AI &nbsp;&nbsp;&nbsp;
